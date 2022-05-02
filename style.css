@@ -58,6 +58,7 @@ header {
 /* INTRO SECTIONS */
 .intro {
     background-color: hsl(256, 26%, 20%);
+    max-width: 375px;
 }
 .image-intro-mobile {
     margin-top: 0;
