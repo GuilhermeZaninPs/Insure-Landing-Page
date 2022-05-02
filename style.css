@@ -60,8 +60,7 @@ header {
     background-color: hsl(256, 26%, 20%);
 }
 .image-intro-mobile {
-    margin-top: 0;
-    text-align: center;
+    margin: 0 auto;
 }
 .intro-text {
     padding: 30px 30px 0;
